@@ -1,5 +1,4 @@
-/* Student name: Gil Yaakov
-*  ID: 203382858
+/* Gil Yaakov
 *  Date: 29/12/2020
 *  File name: main.c
 *  Description: This program is a simulator for
